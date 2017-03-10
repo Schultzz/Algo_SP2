@@ -1,0 +1,6 @@
+c:\users\ms\documents\visual studio 2015\Projects\Algo_SP2\Algo_SP2\bin\Debug\Algo_SP2.exe.config
+c:\users\ms\documents\visual studio 2015\Projects\Algo_SP2\Algo_SP2\bin\Debug\Algo_SP2.exe
+c:\users\ms\documents\visual studio 2015\Projects\Algo_SP2\Algo_SP2\bin\Debug\Algo_SP2.pdb
+c:\users\ms\documents\visual studio 2015\Projects\Algo_SP2\Algo_SP2\obj\Debug\Algo_SP2.csprojResolveAssemblyReference.cache
+c:\users\ms\documents\visual studio 2015\Projects\Algo_SP2\Algo_SP2\obj\Debug\Algo_SP2.exe
+c:\users\ms\documents\visual studio 2015\Projects\Algo_SP2\Algo_SP2\obj\Debug\Algo_SP2.pdb
